@@ -13,4 +13,4 @@
     >
     > delay(1000);
     > myCAM.clear_fifo_flag();
-* When printing 2 bytes, if the decimal number is less than 16, there is no leading zero... lol
+* When printing 2 bytes, if the decimal number is less than 16, there is no leading zero... lol (Even when you set the format to 'HEX')
